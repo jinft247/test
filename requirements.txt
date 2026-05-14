@@ -3,3 +3,6 @@ st-gsheets-connection
 pandas
 gspread
 gspread-dataframe
+plotly
+random
+time
