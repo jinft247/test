@@ -1,8 +1,6 @@
-streamlit
-st-gsheets-connection
 pandas
-gspread
-gspread-dataframe
+streamlit
+dash
 plotly
 random
 time
